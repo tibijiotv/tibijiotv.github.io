@@ -4,7 +4,7 @@
     <dir minversion="19.1">
       <info compressed="false">https://tobalan.github.io/addons.xml</info>
       <checksum>https://tobalan.github.io/addons.xml.md5</checksum>
-      <datadir zip="true">https://tobalan.github.io/Zips</datadir>
+      <datadir zip="true">https://tibijiotv.github.io/Zips</datadir>
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
