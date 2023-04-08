@@ -76,6 +76,6 @@
 
 ## Download
 
-[**Download**](https://github.com/tibijiotv/tibijiotv.github.io/blob/main/repository.tibi-2.0.1.zip) the `.zip` file.
+[**Download**](https://github.com/tibijiotv/tibijiotv.github.io/raw/main/repository.tibi-2.0.1.zip) the `.zip` file.
 <br/>
 <br/>
