@@ -1,13 +1,13 @@
 <h2>⚠️ Repository is no longer maintained ⚠️</h2>
 <h2 align="center">
   <br>
-  <a href="https://github.com/botallen/repository.botallen"><img src="repository.botallen/icon2.png" height="60" width="60"></a>
+  <a href="https://github.com/tibijiotv/tibijiotv.github.io/blob/main/icon.png" height="60" width="60"></a>
   <br>
-  BotAllen
+  Tibi-JioTv
   <br>
 </h2>
 
-<h4 align="center">BotAllen Kodi Repository</h4>
+<h4 align="center">Tibi-JioTv Kodi Repository</h4>
 
 <p align="center">
 
@@ -78,4 +78,4 @@
 
 [**Download**](https://github.com/tibijiotv/tibijiotv.github.io/raw/main/repository.tibi-2.0.1.zip) the `.zip` file.
 <br/>
-<br/>
+
